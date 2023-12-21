@@ -17,5 +17,5 @@ NextJS 기반으로 빠르고 안정적인 웹사이트를 구축하기 위한 �
 
 ## 사용 방법
 1. gh repo clone [sprisao/NextJS-BoilerPlate] [프로젝트명]  # 프로젝트명으로 클론
-2. $git remote set-url origin https://github.com/[계정명]/[새로운프로젝트]  #새로운 프로젝트로 리모트 변경
+2. $git remote set-url origin git@github.com:[계정명]/[생성한 레퍼지토리명].git
 3. $git push -u origin master 로 푸시 
